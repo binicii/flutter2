@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569225334151",
+    "project_id": "my-app-bf041",
+    "storage_bucket": "my-app-bf041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569225334151:android:4baa44399a34ceba859722",
+        "android_client_info": {
+          "package_name": "com.example.ileriduzey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClFPZLKZDLCoaWP7GvymepnS7UE0xJ1JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
